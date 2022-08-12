@@ -1,3 +1,5 @@
+# Nota: A v2 não está completa, e o ideal seria refazer o v1.
+
 # Objetivo
 
 Buscar entender quais características geram o interesse do cliente por um determinado produto. Para isso, o objetivo principal é desenvolver um modelo que consiga classificar o produto entre "interessante" e "não interessante" dados os atributos do mesmo. 
